@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Pulgustave. I'm a Civil Engineer specialized in Computational Mechanics and Computational Design.
-- 👀 I’m interested in Computation Applied to the Building Industry. I'm also interested Space Architecture and Science Fiction.
+- 👋 Hi, I’m @Pulgustave. I'm a Civil Engineer, Master in Computational Mechanics and Computational Design.
+- 👀 I’m interested in Computation Applied to the Anything. I'm also interested Space Architecture and Astronomy.
 - 🌱 I’m currently interested in Programming, RhinoCompute, Digital Twins, AI...
 - 💞️ I’m looking to collaborate on anything related to science and computational Design.
-- 📫 How to reach me ... 
